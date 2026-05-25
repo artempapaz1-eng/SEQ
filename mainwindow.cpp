@@ -108,7 +108,7 @@ void MainWindow::on_doButton_clicked()
     }
 
 
-    ReadabilityMapWidget *readabilityMap = qobject_cast<ReadabilityMapWidget*>(ui->ReadabilityMapWidget);
+    ReadabilityMapWidget *readabilityMap = qobject_cast<ReadabilityMapWidget*>(ui->readabilityMapWidget);
     if (readabilityMap) {
         readabilityMap->setAnalyzedText(inputText);
     }

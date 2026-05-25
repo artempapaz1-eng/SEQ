@@ -1,5 +1,5 @@
-#ifndef TREEWIDGET_H
-#define TREEWIDGET_H
+#ifndef TREEVISUALIZATIONWIDGET_H
+#define TREEVISUALIZATIONWIDGET_H
 
 #include <QGraphicsView>
 #include <QMap>
@@ -17,4 +17,4 @@ private:
     void drawLine(double x1, double y1, double x2, double y2);
 };
 
-#endif // TREEWIDGET_H
+#endif // TREEVISUALIZATIONWIDGET_H
