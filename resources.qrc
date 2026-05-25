@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Kaleidoscope3D.qml</file>
+    </qresource>
+</RCC>
