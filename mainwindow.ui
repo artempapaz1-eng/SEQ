@@ -60,7 +60,7 @@
        </attribute>
        <layout class="QVBoxLayout" name="verticalLayout_5">
         <item>
-         <widget class="ReadabilityMapWidget" name="ReadabilityMapWidget"/>
+         <widget class="ReadabilityMapWidget" name="readMapWidget"/>
         </item>
        </layout>
       </widget>
